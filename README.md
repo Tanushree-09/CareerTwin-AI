@@ -92,22 +92,26 @@ The application follows a client-server architecture where the React frontend co
 ![Dashboard](assets/dashboard.png)
 
 ### Resume Analysis
-![Resume Analysis](assets/resume analysis.png)
+![Resume Analysis](assets/resume-analysis.png)
 
 ### GitHub Analysis
-![GitHub Analysis](assets/github analysis.png)
+![GitHub Analysis](assets/github-section.png)
 
 ### Skill Gap Analysis
-![Skill Gap](assets/skill gap analysis.png)
+![Skill Gap](assets/skill-gap-analysis.png)
 
 ### Learning Roadmap
-![Roadmap](assets/learning roadmap.png)
+![Roadmap](assets/learning-roadmap.png)
 
 ### Career Readiness
-![Career Readiness](assets/career readiness.png)
+![Career Readiness](assets/career-readiness.png)
 
 ### LeetCode Recommendations
-![LeetCode](assets/leetcode section.png)
+![LeetCode](assets/leetcode-section.png)
+
+### Course Recommendations
+![Course Recommendations](assets/recommended-courses.png)
+
 
 ## Installation
 
